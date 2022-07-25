@@ -1,1 +1,1 @@
-# ds_eldenring_proj
+# Elden Ring data analyses 
